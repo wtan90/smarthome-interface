@@ -1,5 +1,5 @@
 
-Website Link: [Home Harmony Smart Home Interface](https://smarthome-interface.netlify.app/)
+Website: [Home Harmony Smart Home Interface](https://smarthome-interface.netlify.app/)
 
 Quick start:
 
